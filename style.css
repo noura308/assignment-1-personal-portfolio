@@ -1,0 +1,185 @@
+.help {
+    width: 80%;
+    margin: auto;
+    background-color: white
+}
+*{
+    box-sizing:border-box;
+}
+.help{
+background-color: whitesmoke
+}
+
+.our-product {
+    background-color: rgb(19, 19, 100);
+    border:  1px solid white;
+    text-align: center;
+    padding: 40px 30px;
+    border-radius: 5%;
+
+}
+
+.our-product h1 {
+    color: white;
+}
+
+.our-product p {
+    color: aqua;
+    padding: 10px 20px;
+}
+
+.our-product a {
+    color: white;
+    border: white 1px solid;
+    text-decoration: none;
+    border-radius: 40%;
+    padding: 5px;
+
+
+
+}
+
+
+.about {
+    background-color:white;
+    padding: 30px;
+    border: 5px  rgb(19, 19, 100)solid;
+    border-radius: 50px;
+    margin-top: 25px;
+   
+
+
+}
+.about h2{
+    color: rgb(19, 19, 100);
+     border-bottom:  3px whitesmoke solid;
+   padding-bottom: 10px;
+}
+.about p{
+    padding-top: 10px;
+}
+
+.about img {
+    width: 140px;
+    border: white 1px solid;
+    border-radius: 50%;
+    float: left;
+    padding-right: 10px;
+}
+.clear-fix{
+    clear:both;
+}
+.about a{
+    border: 1px solid white;
+    background-color: rgb(19, 19, 100);
+    text-decoration: none;
+    border-radius: 15%;
+    padding: 5px;
+    color: white;
+}
+
+.My-Skills  h2{
+    color:rgb(19, 19, 100); ;
+border-bottom:  3px whitesmoke solid;
+}
+.shape-box{
+    float: left;
+    width: 25%;
+    padding: 20px;
+
+}
+
+.shape{
+    
+    border: 1px solid rgb(30,30,134);
+    border-radius: 5%;
+    color:rgb(19, 19, 100);
+    padding:0 10px 
+    
+
+
+}
+.My-Skills {
+   background-color:white;
+    padding: 20px;
+    border: 5px  rgb(19, 19, 100)  solid;
+    border-radius: 50px;
+    margin-top: 22px; 
+}
+.Experience{
+    background-color:white;
+   margin-top: 20px;
+   color:rgb(19, 19, 100); 
+   border:  5px rgb(19, 19, 100) solid ;
+    border-radius: 50px;
+   margin:  10px;
+
+}
+.Experience h1{
+    margin-left: 30px;
+    
+
+}
+
+
+.eee{
+
+ margin-left: 30px;
+   border: 3px rgb(30, 30, 134) solid ;
+   margin: 20px;
+   padding-left: 20px;
+   padding-top:20px ;
+  
+    
+}
+.eee img{
+     width: 100px;
+    border:rgb(137 , 136 ,136) 2px solid;
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
+.eee p{
+    padding-bottom: 25px;
+}
+
+.Contact{
+    border: rgb(19, 19, 100);
+    background-color: rgb(19, 19, 100) ;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Contact h2{
+    color: white;
+    border-bottom:2px solid rgb(153,159,210) ;
+    padding-bottom: 20px;
+
+}
+
+.Contact button{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(40,40,117);
+    border-radius:12px;
+    color: rgb(232,229,229);
+}
+.Contact p{
+    color:white;
+    margin-bottom: 30px;
+}
+    
+
+.end-section span {
+
+    color: rgb(47,73,202);
+}
+.end-section { 
+    text-align: center;  
+    color:rgb(232,229,229);
+    background-color: rgb(8,8,65);
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+
